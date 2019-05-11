@@ -17,7 +17,6 @@ This project need the following libraries to be installed:
 Jupyter Notebook: The project contains a Jupyter notebook where all the technical sides of the project have been conducted. I follow the CRISP-DM method for, preparing, analyzing, model and visualizing data. 
 
 ### Data 
-Three JSON files that show profiles of customers, promotional deals that are offered, and the transaction history of customers.
 
 #### portfolio.json: contains Information about the promotional offers that Starbucks can send to customers including the promotional type, duration of promotion, reward, and how the promotion was distributed to customers
 id (string) - offer id
