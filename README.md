@@ -19,7 +19,7 @@ Jupyter Notebook: The project contains a Jupyter notebook where all the technica
 ### Data 
 
 #### portfolio.json: contains Information about the promotional offers that Starbucks can send to customers including the promotional type, duration of promotion, reward, and how the promotion was distributed to customers
-id (string) - offer id
+* id (string) - offer id
 * offer_type (string) - type of offer ie BOGO, discount, informational
 * difficulty (int) - minimum required spend to complete an offer
 * reward (int) - reward given for completing an offer
